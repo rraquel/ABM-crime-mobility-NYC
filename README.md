@@ -1,6 +1,10 @@
 # Python Prototype
 Agent based modeling for crime prediction in the city of new york
 
+Code corresponding to research published in the Journal of Artificial Intellgence Research 
+https://www.jair.org/index.php/jair/article/view/11831
+
+
 ## Running the model
 clone the repository ` ` ` git clone git@bitbucket.org:crimeprofilers/pythonprototype.git` ` `
 
